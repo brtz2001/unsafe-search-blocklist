@@ -1,6 +1,5 @@
 # Search Engines Without Forced Safe Search
 search.brave.com
-brave.com
 search.yahoo.com
 yandex.com
 yandex.ru
