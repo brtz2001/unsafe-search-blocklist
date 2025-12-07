@@ -24,7 +24,7 @@
 ||dhgate.com^
 ||gearbest.com^
 ||banggood.com^
-||shein.com^
+||*.shein.com^
 ||romwe.com^
 ||zaful.com^
 ||rosegal.com^
