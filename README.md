@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/brtz2001/unsafe-search-blocklist/main/unsafe-s
 This blocklist was generated using the following prompt, designed to ensure comprehensive protection for minors by targeting search engines, shopping sites, and AI platforms that do not enforce safe content by default:
 
 ---
-Generate an updated **plain domain blocklist** for protecting minors, as of today’s date. Follow these rules:
+Generate an updated **domain blocklist** for protecting minors, as of today’s date. Follow these rules:
 
 **1. Block all search engines that do NOT enforce safe search by default** (except Google, assuming SafeSearch is enforced via admin/DNS).
    - Include: DuckDuckGo, Brave, Yahoo, Bing, Yandex, and all others without forced safe search.
@@ -35,7 +35,7 @@ Generate an updated **plain domain blocklist** for protecting minors, as of toda
 **3. Block all AI platforms known for unmoderated, adult, or harmful content.**
 
 **4. Requirements:**
-   - Format as a **plain domain list**, one domain per line.
+   - Format for AdGuard, one domain per line.
    - **Comments are allowed** to separate categories (e.g., `# Search Engines`).
    - **No need to remove defunct domains**—keep them for historical/reference purposes.
    - Example format:
@@ -46,8 +46,10 @@ Generate an updated **plain domain blocklist** for protecting minors, as of toda
      search.yahoo.com
      ```
    - Current list: https://raw.githubusercontent.com/brtz2001/unsafe-search-blocklist/main/unsafe-search-blocklist.txt
+
+   - Include all domains from the current list
      
-**5. Output only the commented plain domain list, nothing else.**
+**5. Output only the domain list, nothing else.**
           
 ---
 
