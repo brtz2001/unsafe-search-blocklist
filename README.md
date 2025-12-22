@@ -1,5 +1,5 @@
 # unsafe-search-blocklist
-DNS Blocklist for unsafe search sites
+Originally DNS Blocklist for unsafe search sites, now with shopping sites, AI platforms and selected games sites, and brave tor extension
 
 # AdGuard Home Blocklist: Unsafe Search, Shopping, and AI
 
@@ -8,6 +8,9 @@ This blocklist is designed to **supplement** SafeSearch enforcement and DNS-base
 - **Image/video search results** on search engines without forced SafeSearch.
 - **Shopping sites** known for selling adult or unsafe products.
 - **AI platforms** generating unmoderated or explicit content.
+- **Online games** not listed in other large lists, e.g. https://raw.githubusercontent.com/Mafraysse/AdGuard_GameList-Filter/main/AdGuard_games_list.txt
+- **Main social media** Meta etc.
+- **Tor** e.g. brave tor extension
 
 ## Why Use This List?
 - **SafeSearch is not foolproof**: Some search engines (e.g., Brave) allow adult content in image/video results unless manually restricted.
