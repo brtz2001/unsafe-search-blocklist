@@ -86,3 +86,19 @@
 ||ditiin.ai^
 ||perplexity.ai^
 ||you.com^
+
+# Online Games
+||igroutka.ru^
+||unoonline.io^
+||platoapp.com^
+||deercatgames.com^
+
+# Main social media
+||facebook.com^
+||tiktok.com^
+||instagram.com^
+||youtube.com^
+
+# Brave tor extension
+||brave.com^
+||tor.bravesoftware.com^
