@@ -92,6 +92,18 @@
 ||unoonline.io^
 ||platoapp.com^
 ||deercatgames.com^
+||1games.io^
+||azgame.io^
+||1001games.com^
+||deercatgames.com^
+||vitalitygames.com^
+||revenue.games^
+||gamemonkey.org^
+||gamereactor.dk^
+||gamereactor.eu^
+||retro-bowlgames.github.io^
+||gamedistribution.com^
+||ant.games^
 
 # Main social media
 ||facebook.com^
