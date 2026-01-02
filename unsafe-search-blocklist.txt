@@ -86,8 +86,6 @@
 ||ditiin.ai^
 ||perplexity.ai^
 ||you.com^
-||poki.fr
-||poki.com
 
 # Online Games
 ||igroutka.ru^
@@ -108,6 +106,8 @@
 ||ant.games^
 ||games.netflix.com^
 ||netflixgames.com^
+||poki.fr^
+||poki.com^
 
 # Main social media
 ||facebook.com^
