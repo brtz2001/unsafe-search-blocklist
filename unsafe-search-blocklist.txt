@@ -86,6 +86,8 @@
 ||ditiin.ai^
 ||perplexity.ai^
 ||you.com^
+||poki.fr
+||poki.com
 
 # Online Games
 ||igroutka.ru^
