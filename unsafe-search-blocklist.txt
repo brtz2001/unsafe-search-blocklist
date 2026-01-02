@@ -104,6 +104,8 @@
 ||retro-bowlgames.github.io^
 ||gamedistribution.com^
 ||ant.games^
+||games.netflix.com^
+||netflixgames.com^
 
 # Main social media
 ||facebook.com^
