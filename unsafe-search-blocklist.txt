@@ -127,3 +127,10 @@
 # Brave tor extension
 ||brave.com^
 ||tor.bravesoftware.com^
+
+# Some more
+||shutterstock.com^
+||amazon.com^
+||amazon.de^
+||amazon.fr^
+||amazon.co.uk^
