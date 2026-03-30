@@ -110,13 +110,22 @@
 ||poki.fr^
 ||poki.com^
 ||poki.co.com^
+||poki.us.com^
+||poki.us.org^
+||poki.io^
 ||poly-track.io^
 ||kodub.com^
 ||bikextreme.org^
 ||smashkartsonlinegames.github.io^
 ||fancade.com^
 ||inmobi.com^
-
+||kdata1.com^
+||stickdefenders.gitlab.io^
+||myperfect-hotel.com^
+||retrobowl26.college^
+||bulletbros.gitlab.io^
+||stickmanhook2.io^
+||github.io^
 
 # Main social media
 ||facebook.com^
