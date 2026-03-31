@@ -86,6 +86,8 @@
 ||ditiin.ai^
 ||perplexity.ai^
 ||you.com^
+||shop.app^
+||jeuxend.com^
 
 # Online Games
 ||igroutka.ru^
@@ -126,6 +128,7 @@
 ||bulletbros.gitlab.io^
 ||stickmanhook2.io^
 ||github.io^
+||101spiele.de^
 
 # Main social media
 ||facebook.com^
