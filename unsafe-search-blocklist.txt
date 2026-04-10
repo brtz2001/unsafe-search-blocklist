@@ -89,6 +89,20 @@
 ||shop.app^
 ||jeuxend.com^
 
+# AI Platforms
+||chat.openai.com^
+||claude.ai^
+||gemini.google.com^
+||copilot.microsoft.com^
+||mistral.ai^
+||perplexity.ai^
+||poe.com^
+||groq.com^
+||huggingchat.com^
+||deepmind.google^
+||you.com^
+||lechat.mistral.ai^
+
 # Online Games
 ||igroutka.ru^
 ||unoonline.io^
