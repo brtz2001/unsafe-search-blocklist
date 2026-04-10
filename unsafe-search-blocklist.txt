@@ -126,13 +126,14 @@
 
 # AI Platforms
 ||chat.openai.com^
+||chatgpt.com^
 ||claude.ai^
 ||gemini.google.com^
 ||copilot.microsoft.com^
 ||mistral.ai^
 ||perplexity.ai^
 ||poe.com^
-||groq.com^
+||gro.com^
 ||huggingchat.com^
 ||deepmind.google^
 ||you.com^
