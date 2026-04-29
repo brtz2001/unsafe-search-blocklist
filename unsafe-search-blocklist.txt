@@ -185,6 +185,7 @@
 ||tiktok.com^
 ||instagram.com^
 ||youtube.com^
+||reddit.com^
 
 # Adult meeting sites
 ||adultfriendfinder.com^
