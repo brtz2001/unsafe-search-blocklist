@@ -186,6 +186,7 @@
 ||instagram.com^
 ||youtube.com^
 ||reddit.com^
+||snapchat.com^
 
 # Adult meeting sites
 ||adultfriendfinder.com^
