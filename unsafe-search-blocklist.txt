@@ -233,3 +233,5 @@
 ||amazon.fr^
 ||amazon.co.uk^
 ||sunoti.com^
+||wp.com^
+||wordpress.com^
