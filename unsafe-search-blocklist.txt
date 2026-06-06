@@ -232,3 +232,4 @@
 ||amazon.de^
 ||amazon.fr^
 ||amazon.co.uk^
+||sunoti.com^
