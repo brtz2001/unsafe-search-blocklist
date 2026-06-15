@@ -221,6 +221,7 @@
 ||gayromeo.com^
 ||planetromeo.com^
 ||fetlife.com^
+||flickr.com^
 
 # Brave tor extension
 ||brave.com^
