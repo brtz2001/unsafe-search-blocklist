@@ -179,6 +179,8 @@
 ||stickmanhook2.io^
 ||github.io^
 ||101spiele.de^
+||toggo.de^
+||streamabc.net^
 
 # Main social media
 ||facebook.com^
@@ -236,3 +238,5 @@
 ||sunoti.com^
 ||wp.com^
 ||wordpress.com^
+||imgix.net^
+||player.foundation^
